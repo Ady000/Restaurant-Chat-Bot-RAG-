@@ -5,7 +5,7 @@
 
 This is a Retrieval-Augmented Generation (RAG) restaurant chatbot built using DataStax Langflow and Astra DB. The chatbot provides users with restaurant recommendations, menu details, order assistance, and general inquiries based on real-time and stored data.
 
-Features
+### Features
 
 Conversational AI: Provides natural language responses to user queries.
 
@@ -17,7 +17,7 @@ Order Assistance: Helps users place and track orders.
 
 Scalability: Built on Astra DB for efficient data storage and retrieval.
 
-Tech Stack
+### Tech Stack
 
 Frontend: React (optional for UI-based interaction)
 
@@ -29,9 +29,9 @@ LLM Framework: DataStax Langflow
 
 Deployment: Docker, Vercel (optional)
 
-Installation
+## Installation
 
-Prerequisites
+### Prerequisites
 
 Node.js & npm (for frontend/backend)
 
@@ -41,7 +41,7 @@ Astra DB account
 
 DataStax Langflow setup
 
-Steps
+### Steps
 
 Clone the Repository
 
@@ -70,7 +70,7 @@ cd frontend
 npm install
 npm start
 
-Usage
+## Usage
 
 Access the chatbot via the frontend UI or API endpoint.
 
@@ -90,6 +90,6 @@ Commit changes.
 
 Submit a PR.
 
-License
+# License
 
 This project is licensed under the MIT License.
